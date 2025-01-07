@@ -1,3 +1,3 @@
-# til-goodbye
+# tilly-goodbye
 
-Example til plugin.
+Example plugin for tilly.
