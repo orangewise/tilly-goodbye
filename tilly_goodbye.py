@@ -1,5 +1,5 @@
 from click import echo
-from tilly.plugins import hookimpl
+from tilly.plugin import hookimpl
 
 @hookimpl
 def til_command(cli):
